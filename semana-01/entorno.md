@@ -23,3 +23,8 @@ Maven 3.9.11
 Git 2.49.0
 
 ### Rashuaman Sapallanay Ricco Didier
+
+JDK 24
+Maven 3.9.9
+Git 2.50.1
+
