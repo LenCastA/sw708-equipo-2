@@ -12,6 +12,10 @@ JDK 21.0.12.1
 Maven 3.9.11
 Git 2.50.0
 
-### Puris Ricaldi Roy Farid
+### Puris Ricaldi Roy
+
+JDK 21.0.12.1
+Maven 3.9.11
+Git 2.49.0
 
 ### Rashuaman Sapallanay Ricco Didier
